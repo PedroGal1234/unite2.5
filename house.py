@@ -24,7 +24,7 @@ brownDoor = RectangleAsset(80,100,blackOutline,brown)
 brownDoor2 = CircleAsset(40,blackOutline,brown)
 redRectangle = RectangleAsset(400,300,blackOutline,red)
 blackRectangle = RectangleAsset(50,100,blackOutline,black)
-silverTriangle = PolygonAsset([(0,0),(200,-200),(400,0)],blackOutline,silver)
+silverTriangle = PolygonAsset([(-10,0),(200,-200),(410,0)],blackOutline,silver)
 cyanWindow = RectangleAsset(60,70,blackOutline,cyan)
 
 Sprite(redRectangle,(175,250))
