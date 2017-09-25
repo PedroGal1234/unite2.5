@@ -23,5 +23,5 @@ Sprite(blueCircle,(700,50)) #(number of pixels to the right, Number of pixels do
 Sprite(greenEllipse,(700,200))
 Sprite(blackLine)
 Sprite(redTriangle)
-Sprite(text,(300,200))
+Sprite(text,(300,100))
 App().run()
