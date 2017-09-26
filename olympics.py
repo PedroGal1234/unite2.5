@@ -9,7 +9,7 @@ yellow = Color(0xffff00,1)
 black = Color(0x00000,1)
 green = Color(0x00ff00,1)
 red = Color(0xff0000,1)
-white = Color(0xffffff,1)
+white = Color(0xffffff,0)
 
 blueOutline = LineStyle(10,blue)
 yellowOutline = LineStyle(10,yellow)
