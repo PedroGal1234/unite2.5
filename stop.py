@@ -10,5 +10,5 @@ white = Color(0xffffff,1)
 
 redOutline = LineStyle(10,red)
 
-redOctagon = PolygonAsset([(0,0),(50,50),(60,0),(110,0),(],redOutline,red)
+redOctagon = PolygonAsset([(0,0),(50,50),(60,0),(110,0)],redOutline,red)
 text = TextAsset('Stop', fill=white, style='bold 40pt Times')
